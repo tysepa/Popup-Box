@@ -1,6 +1,7 @@
 # Popup-Box
 
-Introduction
+#Introduction
+
 When creating the design of a web page, one of the most important things to be into consideration is user interactivity. A good example of user interactivity is the Modal box.
 
 A modal box mostly appears as a message box in the Browser based on an action performed by a user. The modal box comes in different forms and shapes which includes the Alert box, Flash notification box, Dialog box, Lightbox. Etc.
